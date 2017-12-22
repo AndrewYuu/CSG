@@ -1,0 +1,2 @@
+# CSG
+Course Site Generator
